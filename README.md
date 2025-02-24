@@ -1,4 +1,9 @@
-## Hi there 👋
+## About me
+My name is Michelle mwende. I am 20 years old. I am currently in Technical University of Kenya studying electrical engineering.
+I am in my third year. I am planning on majoring in computerin my fourth year hence the interest in learning programming. I
+have recently joined an academy to learn computer programming.
+
+*You can reach me through email* **michellemwende28@gmail.com**
 
 <!--
 **Mitchke0/Mitchke0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
